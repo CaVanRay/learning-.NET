@@ -4,3 +4,4 @@ program for tracking the inventory currently owned &amp; maintained by the Libra
 
 Needed for program:
 
+            - Accesible from anywhere
