@@ -16,3 +16,21 @@ Base Object structure:
             - Campus (Main, Kingsville, Round Rock)
             - Unique ID (UIN, Serial #, Campus ID)
             - Related (Current User, Assigned Equipment, Connected Devices)
+
+Beyond the Base Object Stucture things become more precise.
+
+Employee:
+
+Desktop PC:
+
+Laptop:
+
+Conference Room PC:
+
+AV equipment:
+
+Network Printer:
+
+Desktop Printer;
+
+Community Scanner:
