@@ -8,3 +8,11 @@ Needed for program:
             - Each item is an object
             - Each item is connected to relevant items ~ People, Equipment, Locations
             - Instantly updated on a central database
+
+Base Object structure:
+
+            - Designation (Name, ID #, Location)
+            - Type (Employee, Equipment, Space)
+            - Campus (Main, Kingsville, Round Rock)
+            - Unique ID (UIN, Serial #, Campus ID)
+            - Related (Current User, Assigned Equipment, Connected Devices)
