@@ -1,5 +1,7 @@
 Using this repo for learnign .NET framework and practice my C#
 
+So far this is turning out to be easier than expected
+
 to do:
 
 - [x] Make a window with C#  
