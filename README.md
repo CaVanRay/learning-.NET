@@ -4,6 +4,7 @@ So far this is turning out to be easier than expected
 
 Once again the most difficult part of learning something new is actually just doing the thing
 
+----------------------------------------------------------------------------------------------
 to do:
 
 - [x] Make a window with C#  
