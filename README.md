@@ -11,3 +11,4 @@ to do:
 - [x] attach code functionality to window
 - [ ] attach one of my previous C++ console apps to C# window
 - [ ] Make car-catalogue gui
+- [ ] add pictures to car-catalogue
