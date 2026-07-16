@@ -13,3 +13,4 @@ to do:
 - [ ] Make car-catalogue gui
 - [ ] add pictures to car-catalogue
 - [ ] Make Jezzball
+- [ ] Make Checkers
